@@ -103,14 +103,14 @@ nav div button {
     z-index: 10;
 }
 
-.hero> :nth-child(2) {
+.hero> :nth-child(5) {
     font-size: 24px;
     font-weight: 400px;
     position: relative;
     z-index: 10;
 }
 
-.hero> :nth-child(3) {
+.hero> :nth-child(6) {
     font-size: 21px;
     position: relative;
     z-index: 10;
